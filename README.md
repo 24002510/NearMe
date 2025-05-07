@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE ##
+```
 <html>
 <head>
 <title>My HomeTown</title>
@@ -94,7 +95,7 @@ vengikkal.html
     
 </body>
 </html>
-
+```
 
 
 ## OUTPUT
